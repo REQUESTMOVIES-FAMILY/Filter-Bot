@@ -33,7 +33,7 @@
       },
       "OWNER_NAME": {
          "description": "Enter Your Name",
-         "value": "Arjun V K"
+         "value": "Arjuvk"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
