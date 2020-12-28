@@ -3,13 +3,13 @@
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
-Join In Our [Movie Group](https://t.me/Malayalam_Movies_Groups) And Get [All Links Of Our Channels](https://t.me/MLM_LINKZ).
+Join In Our [Movie Group](https://t.me/RM_MOVIESGROUP) And Get [All Links Of Our Channels](https://t.me/RM_FamilyAll).
 
-Alternatively, [find me on telegram](https://t.me/Qwertyclass)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/Arjuvk)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qwertyclass/Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REQUESTMOVIES-FAMILY/Filter-Bot)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
